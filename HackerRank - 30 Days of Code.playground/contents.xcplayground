@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Day 00 - Hello, World'/>
+        <page name='Day 01 - Data Types'/>
+        <page name='Day 02 - Operators'/>
+        <page name='Day 03 - Intro to Conditional Statements'/>
+        <page name='Day 04 - Class vs Instance'/>
+        <page name='Day 05 - Loops'/>
+        <page name='Day 06 - Let&apos;s Review'/>
+        <page name='Day 07 - Arrays'/>
+        <page name='Day 08 - Dictionaries and Maps'/>
+        <page name='Day 09 - Recursion 3'/>
+        <page name='Day 10 - Binary Numbers'/>
+        <page name='Day 11 - 2D Arrays'/>
+        <page name='Day 12 - Inheritance'/>
+        <page name='Day 13 - '/>
+        <page name='Day 14 - Scope'/>
+        <page name='Day 15 - Linked List'/>
+        <page name='Day 16 - Exceptions - String to Integer'/>
+        <page name='Day 17 - More Exceptions'/>
+        <page name='Day 18 - Queues and Stacks'/>
+        <page name='Day 19 - '/>
+        <page name='Day 20 - Sorting'/>
+        <page name='Day 21 - Generics'/>
+        <page name='Day 22 - Binary Search Trees'/>
+        <page name='Day 23 - BST Level-Order Traversal'/>
+        <page name='Day 24 - More Linked Lists'/>
+        <page name='Day 25 - Running Time and Complexity'/>
+        <page name='Day 26 - Nested Logic'/>
+        <page name='Day 27 -'/>
+        <page name='Day 28 - RegEx, Patterns, and Intro to Databases'/>
+        <page name='Day 29 - Bitwise AND'/>
+    </pages>
+</playground>

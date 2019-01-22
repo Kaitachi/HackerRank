@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='TestCase'/>
+        <page name='2D Array - DS'/>
+        <page name='Arrays - DS'/>
+        <page name='Dynamic Array'/>
+        <page name='Left Rotation'/>
+        <page name='Sparse Arrays'/>
+        <page name='Array Manipulation'/>
+    </pages>
+</playground>

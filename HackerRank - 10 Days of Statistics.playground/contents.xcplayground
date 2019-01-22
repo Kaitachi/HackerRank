@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Base'/>
+        <page name='Day 0 - Mean, Median, and Mode'/>
+        <page name='Day 0 - Weighted Mean'/>
+        <page name='Day 1 - Quartiles'/>
+        <page name='Day 1 - Standard Deviation'/>
+        <page name='Day 1 - Interquartile Range'/>
+    </pages>
+</playground>

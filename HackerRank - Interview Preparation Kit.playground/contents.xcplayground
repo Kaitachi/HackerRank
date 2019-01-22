@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='TestCase'/>
+        <page name='001 - SockMerchant'/>
+        <page name='002 - CountingValleys'/>
+        <page name='003 - JumpingOnClouds'/>
+        <page name='004 - RepeatedString'/>
+        <page name='Arrays - 2D Arrays - DS'/>
+        <page name='Arrays - Left Rotation'/>
+        <page name='Arrays - New Year Chaos'/>
+        <page name='Arrays - Minimum Swaps 2'/>
+        <page name='Arrays - Array Manipulation'/>
+    </pages>
+</playground>

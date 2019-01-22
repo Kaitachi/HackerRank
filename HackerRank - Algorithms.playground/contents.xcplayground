@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Warmup - Solve Me First'/>
+        <page name='Warmup - Simple Array Sum'/>
+        <page name='Warmup - Compare the Triplets'/>
+        <page name='Warmup - A Very Big Sum'/>
+        <page name='Warmup - Diagonal Difference'/>
+        <page name='Warmup - Plus Minus'/>
+        <page name='Warmup - Staircase'/>
+        <page name='Warmup - Mini-Max Sum'/>
+        <page name='Warmup - Birthday Cake Candles'/>
+        <page name='Warmup - Time Conversion'/>
+        <page name='Implementation - Apple and Orange'/>
+        <page name='Implementation - Kangaroo'/>
+        <page name='Implementation - Grading Students'/>
+        <page name='Implementation - Between Two Sets'/>
+        <page name='Implementation - Breaking the Records'/>
+        <page name='Implementation - Birthday Chocolate'/>
+        <page name='Implementation - Divisible Sum Pairs'/>
+        <page name='Implementation - Migratory Birds'/>
+        <page name='Implementation - Day of the Programmer'/>
+        <page name='Implementation - Bon Appétit'/>
+        <page name='Implementation - Drawing Book'/>
+        <page name='Implementation - Electronics Shop'/>
+        <page name='Implementation - Cats and a Mouse'/>
+        <page name='Implementation - Forming a Magic Square'/>
+        <page name='Implementation - Picking Numbers'/>
+    </pages>
+</playground>

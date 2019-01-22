@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Untitled Page'/>
+        <page name='Project 001'/>
+        <page name='Project 002'/>
+        <page name='Project 003'/>
+        <page name='Project 004'/>
+        <page name='Project 005'/>
+        <page name='Project 006'/>
+        <page name='Project 007'/>
+    </pages>
+</playground>
